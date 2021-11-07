@@ -1,5 +1,3 @@
-# Yoav Zilbertzan 204429948
-# Elya Wygoda 205365901
 import sys
 import random
 import copy
